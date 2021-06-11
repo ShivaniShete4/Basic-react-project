@@ -1,4 +1,4 @@
-## This Simple and basic react project guided by John Smilga showcases the names of people who have the birthdays with their age.
+## This simple and basic react project guided by John Smilga showcases the names of people who have the birthdays with their age.
 
 ## Technologies used: HTML,CSS,React Js
 
